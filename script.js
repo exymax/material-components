@@ -1,3 +1,3 @@
-document.addEventListener('DOMContentLoaded').then(function() {
+document.addEventListener('DOMContentLoaded', function() {
     alert("Hello World!");
 });
